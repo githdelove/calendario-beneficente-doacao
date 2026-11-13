@@ -1,0 +1,4 @@
+.download_secret
+.env
+.env.*
+!.env.example
